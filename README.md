@@ -1,4 +1,5 @@
 # robocar
-test
-test
+
+ Testing scripts for RoboCar project
+
 
